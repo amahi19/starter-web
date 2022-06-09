@@ -7,9 +7,11 @@ Filler text to show git reporsitory.
 ## Purpose
 
 Sample website with plenty of files for demos
-
+More text
 
 
 ## Deployment 
+
+Simpleweb project and studd 
 
 ## How To Constribute
