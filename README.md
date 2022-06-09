@@ -15,3 +15,7 @@ More text
 Simpleweb project and studd 
 
 ## How To Constribute
+
+### Copyright
+
+2014 Git.Training.
