@@ -18,4 +18,4 @@ Simpleweb project and studd
 
 ### Copyright
 
-2014 Git.Training.
+2022 Git.Training.
