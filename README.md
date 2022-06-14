@@ -1,4 +1,4 @@
-# Starter Web Repo
+# Starter Web Repo2022
 
 This repository is for showing how Git and GitHub work. 
 ## Introduction
@@ -18,4 +18,4 @@ Simpleweb project and studd
 
 ### Copyright
 
-2014 Git.Training.
+2022 Git.Training.
