@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Apoorva Mahishwar> -- <apoorva.mahishwar@xing.com> -- <apooorrva>
 
 # THANKS
 
