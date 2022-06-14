@@ -1,6 +1,6 @@
 # Starter Web Repo2022
 
-This repository is for showing how Git and GitHub work. Adding line for rebasing
+This repository is for showing how Git and GitHub work. Adding line for rebasing example, then from myeature branch too.
 ## Introduction
 Filler text to show git reporsitory. More example related stuff into it.
 
