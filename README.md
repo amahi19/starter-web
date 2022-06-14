@@ -16,6 +16,8 @@ Simpleweb project and studd
 
 ## How To Constribute
 
+Please fork this reporsitory and then issue Pull Request for review.
+
 ### Copyright
 
 2022 Git.Training.
